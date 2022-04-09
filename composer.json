@@ -1,0 +1,34 @@
+{
+    "name": "chinh2112/mypaskey",
+    "description": "mypaskey",
+    "keywords": [
+        "mypaskey"
+    ],
+    "authors": [
+        {
+            "name": "chinh2112",
+            "email": "19211tt4502@mail.tdc.edu.vn"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Chinh2112\\Mypaskey\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
